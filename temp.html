@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>template 测试</title>
+    </head>
+    <body>
+        11
+        <div id="div"></div>
+        <script id="tpl" type="text/html">
+            <ul>
+                <%for(var i = 0; i < list.length; i++) {%>
+                <li><%:=list[i].name%></li>
+                <%}%>
+            </ul>
+        </script>
+        <script src="public/plugins/jquery-3.3.1.min.js"></script>
+        <script src="public/plugins/template.js"></script>
+        <script>
+            var tpl = document.getElementById('tpl').innerHTML;
+            const content = template(tpl, { list: [{ name: 'yan' }, { name: 'haijing' }] });
+            document.getElementById('div').innerHTML = content;
+        </script>
+    </body>
+</html>

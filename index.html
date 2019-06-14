@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta http-equiv="X - UA - Compatible " content="ie = edge " />
+        <link href="public/css/index.css" rel="stylesheet" />
+        <title>齐鲁石化</title>
+    </head>
+
+    <body>
+        <!-- 3d 容器 begin -->
+        <div id="div3d"></div>
+        <!-- 3d 容器 end -->
+        <!-- 引入公共插件插件 begin -->
+        <script src="public/plugins/jquery-3.3.1.min.js"></script>
+        <script src="public/plugins/thingjs.min-v1.2.4.8.js"></script>
+        <script src="public/plugins/uearth.min.v1.7.6.2.js"></script>
+        <script src="public/plugins/thing.projector.js"></script>
+        <script src="public/plugins/thing.pano.min.js"></script>
+        <script src="public/plugins/vue.js"></script>
+        <script src="public/plugins/lodash.js"></script>
+        <script src="src/config.js"></script>
+        <script src="src/utils/event-bus.js"></script>
+        <!-- 引入公共插件插件 end -->
+        <!-- 从这里开始引入业务逻辑js -->
+        <script src="src/constants/event-type-constant.js"></script>
+        <script src="src/constants/point-constant.js"></script>
+        <script src="src/thingjs/app.js"></script>
+        <script src="src/thingjs/load-point.js"></script>
+    </body>
+</html>

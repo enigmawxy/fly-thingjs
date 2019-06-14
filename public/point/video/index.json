@@ -1,0 +1,23 @@
+{
+  "sourceFile": "D:\\work\\20140813240003_2_转换中\\max\\独立设备_白色枪式摄像机_01.max",
+  "gltfFiles": [
+    "default.gltf"
+  ],
+  "texFiles": {
+    "7159FEFF47ECF809D8D46DE5210AB90B": "7159FEFF47ECF809D8D46DE5210AB90B.bin",
+    "56EDA0D12A542170790D06B069AB6612": "白色枪式摄像机.jpg"
+  },
+  "size": [
+    0.10055206,
+    0.429994375,
+    0.2477955
+  ],
+  "faces": 726,
+  "verts": 1346,
+  "nodes": 2,
+  "createTime": "2018-08-13 16:45:05",
+  "author": "1854",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.0"
+}
