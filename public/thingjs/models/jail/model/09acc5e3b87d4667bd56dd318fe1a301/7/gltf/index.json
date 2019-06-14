@@ -1,0 +1,26 @@
+{
+  "sourceFile": "D:\\work\\09acc5e3b87d4667bd56dd318fe1a301_999_转换中\\MAX\\1800018000围栏.maxbk0.max",
+  "gltfFiles": [
+    "8OZ8CDJHWS5TTIIATUC962IZZ75W77DJJ.gltf"
+  ],
+  "texFiles": {
+    "OTJP8EH20CWP7H2FU82UZ6PW7KXU17DO0": ".bin",
+    "OR9NSM98WOJP8HC78OM341E18N53YOY3D": "lvse.jpg",
+    "0EH9WS436SDZ0QRZ0NTOT7DQZOG77O2Q4": "网格01.png",
+    "SG9PNHO182YU80QFWQEWN0X7PSO8J2OHD": "TIEwang_06.png",
+    "6QZ77T1PHQDEZ0RU762WTWMEJKYEZKDQ2": "TIEwang_04.png"
+  },
+  "size": [
+    3.023,
+    0.498054,
+    4.51697
+  ],
+  "faces": 292,
+  "verts": 266,
+  "nodes": 1,
+  "createTime": "2019-05-22 12:04:08",
+  "author": "1854",
+  "computer": "DESKTOP-MEOUSL4",
+  "max": "#(22000, 55, 0, 22, 0, 0, 757, 2020, \"\")",
+  "version": "2.1"
+}

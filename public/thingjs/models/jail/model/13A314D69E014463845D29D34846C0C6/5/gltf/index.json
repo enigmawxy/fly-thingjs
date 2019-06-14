@@ -1,0 +1,23 @@
+{
+  "sourceFile": "D:\\work\\13A314D69E014463845D29D34846C0C6_999_转换中\\max\\学校_黑板_01.max",
+  "gltfFiles": [
+    "RHZNQZ762FWZIMQUVGZZNDT6KDH2SCO26.gltf"
+  ],
+  "texFiles": {
+    "RAUCX3TVYFWNIIA885U6IGTP8MQZU5F72": ".bin",
+    "TO6WRE6NT722RQPWQGWU6PQY1PODNO727": "NTexture_01.jpg"
+  },
+  "size": [
+    4.00064,
+    0.0530514,
+    1.00154
+  ],
+  "faces": 28,
+  "verts": 16,
+  "nodes": 2,
+  "createTime": "2018-12-18 18:18:13",
+  "author": "1854",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

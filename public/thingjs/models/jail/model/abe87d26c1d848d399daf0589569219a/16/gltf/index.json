@@ -1,0 +1,26 @@
+{
+  "sourceFile": "D:\\work\\abe87d26c1d848d399daf0589569219a_999_转换中\\max\\18000监狱门B.max",
+  "gltfFiles": [
+    "VGAZ8Y8JNQHA0OQJTU2WD6YON7M16ND3Z.gltf"
+  ],
+  "texFiles": {
+    "WR3T1DQT0G7YNDW47HTE7KRWY0D71VXJJ": ".bin",
+    "VQ3PKEEYCCH7T6492NCWT7PFY85U7COTJ": "J_men01_f_bmp.jpg",
+    "7M3Z2TW42HYQPNRW8OMJ1OCT81YHJQOT7": "men_01.jpg",
+    "7QWNNM32QHQA7VPJ6VQUJ75E8KO826TF1": "J_men03_f_bmp.jpg",
+    "CPQ1KGT1SYO8VHCFY8RZDW2E7O5U2I291": "J_men02_f_bmp.jpg"
+  },
+  "size": [
+    1.1122,
+    0.117632,
+    2.12927
+  ],
+  "faces": 1276,
+  "verts": 792,
+  "nodes": 8,
+  "createTime": "2018-12-20 21:31:17",
+  "author": "1854",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

@@ -1,0 +1,22 @@
+{
+  "sourceFile": "D:\\work\\6cdb83c48cf147d0a948b0ec8a4b3d0d_999_转换中\\MAX\\16000水泵1.maxbk0.max",
+  "gltfFiles": [
+    "OXEDWMQU7Q9WI7D7Z1IUT14HU2Q171Y31.gltf"
+  ],
+  "texFiles": {
+    "7XTPI4OTV74FWOY9J1D7NQO7DK51TV5QJ": ".bin"
+  },
+  "size": [
+    8.05599,
+    2.98424,
+    5.61408
+  ],
+  "faces": 199344,
+  "verts": 102340,
+  "nodes": 394,
+  "createTime": "2019-05-17 13:56:31",
+  "author": "1854",
+  "computer": "DESKTOP-MEOUSL4",
+  "max": "#(22000, 55, 0, 22, 0, 0, 757, 2020, \"\")",
+  "version": "2.1"
+}

@@ -1,0 +1,25 @@
+{
+  "sourceFile": "D:\\work\\df3f235bd4b94ab2ad709cc9b42ff215_999_转换中\\max\\18000克拉玛依_监区门7.max",
+  "gltfFiles": [
+    "TSYJWIETN0RZD6R3O7VR30UCJY2OJDCE1.gltf"
+  ],
+  "texFiles": {
+    "4OPJNWEE3DCQZ77CQ6KIQUNI96QX96UCA": ".bin",
+    "26M1UCIA62MQ6S53U01EUJ2YQ4WD1ZSP8": "door_mesh.png",
+    "NKCUTCG9774J3PII9NNTWZCEUT8TQDO28": "door_mesh02.png",
+    "T6G34VG1NIPH2OG3OPVRT11RHNVDH28YF": "Jianqumen000.png"
+  },
+  "size": [
+    2.38026,
+    0.0650013,
+    2.7
+  ],
+  "faces": 96,
+  "verts": 60,
+  "nodes": 3,
+  "createTime": "2018-12-21 10:37:49",
+  "author": "1854",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

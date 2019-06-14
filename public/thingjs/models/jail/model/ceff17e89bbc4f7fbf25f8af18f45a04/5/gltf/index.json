@@ -1,0 +1,25 @@
+{
+  "sourceFile": "D:\\work\\ceff17e89bbc4f7fbf25f8af18f45a04_999_转换中\\max\\1800018000楼梯.max",
+  "gltfFiles": [
+    "063TU6WD34NQW7WD70ICWN1OU10PE1I5A.gltf"
+  ],
+  "texFiles": {
+    "88C8J0E3ANWXF20YOPND8DSP9UUEOZ8GH": ".bin",
+    "1Q5UDS43U6KO9JOEJD8G7JNRUPNIUJSEF": "楼梯2_f_bmp.jpg",
+    "6VC87IDT31WQOU6M362PF86DQ78296SXU": "8_f_png.jpg",
+    "WKOW8NIED65WJ1EW736RT1N2ZWITE0NGF": "楼梯_f_png.jpg"
+  },
+  "size": [
+    3.07981,
+    1.24845,
+    2.80965
+  ],
+  "faces": 532,
+  "verts": 422,
+  "nodes": 2,
+  "createTime": "2018-12-21 4:23:01",
+  "author": "1854",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

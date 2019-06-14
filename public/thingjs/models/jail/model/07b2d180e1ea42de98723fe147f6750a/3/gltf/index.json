@@ -1,0 +1,23 @@
+{
+  "sourceFile": "D:\\work\\07b2d180e1ea42de98723fe147f6750a_999_转换中\\max\\18000树_02.max",
+  "gltfFiles": [
+    "E77SOATQPF6QMHY8WXWT7OA7CD787PFUO.gltf"
+  ],
+  "texFiles": {
+    "4J7QIJ6UWMHY0TF8VMTNV2FNUMQ2WIHJU": ".bin",
+    "E8474T4NQOD2C12VWE9N7RTZVMQJUYJN7": "b4_f_tga.png"
+  },
+  "size": [
+    10.3207,
+    10.0598,
+    9.84333
+  ],
+  "faces": 1132,
+  "verts": 1373,
+  "nodes": 2,
+  "createTime": "2018-12-18 16:12:16",
+  "author": "1854",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

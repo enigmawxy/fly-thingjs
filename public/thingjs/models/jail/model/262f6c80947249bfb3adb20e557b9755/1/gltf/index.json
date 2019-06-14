@@ -1,0 +1,25 @@
+{
+  "sourceFile": "D:\\work\\262f6c80947249bfb3adb20e557b9755_999_转换中\\MAX\\18000吉木萨尔_透明绿玻璃地板.maxbk0.max",
+  "gltfFiles": [
+    "063OODUMT71R92QQZJUI180YUWKRT40IW.gltf"
+  ],
+  "texFiles": {
+    "Y7EA86I7NW5T1S3CT4KCQPNC9DSRAUS2T": ".bin",
+    "27CT2V5UUWMZWQC31U12F11QWYCY86QP7": "green_glasSS.png",
+    "Y7RHYWD8JCY14I3XA0IYHU0QO4K531CQH": "Black.jpg",
+    "D0Y8P7XH1K53U00RE7OQ37QTO40YFNCGU": "ceramic_1.jpg"
+  },
+  "size": [
+    4.18392,
+    1.98185,
+    0.0836175
+  ],
+  "faces": 80,
+  "verts": 56,
+  "nodes": 3,
+  "createTime": "2019-01-04 16:57:15",
+  "author": "",
+  "computer": "USER-B2M1SK78IA",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

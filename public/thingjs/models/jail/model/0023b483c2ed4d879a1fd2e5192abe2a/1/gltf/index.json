@@ -1,0 +1,24 @@
+{
+  "sourceFile": "D:\\work\\0023b483c2ed4d879a1fd2e5192abe2a_999_转换中\\max\\18000克拉玛依_格栅窗小法庭.max",
+  "gltfFiles": [
+    "H6VRT0WY1204DOJVI861YF7KD7N7TW40X.gltf"
+  ],
+  "texFiles": {
+    "J8D6YQNI5U4VMW6QM9PSIW1WO9T8G1T7T": ".bin",
+    "1JCM1D1DGE07TEZK2Q7CGU6KYFZUMZTWP": "mesh_window01.png",
+    "ADYSIT662UYUI32WPJ0NMENNMJ6CRODQD": "windows_mesh.png"
+  },
+  "size": [
+    1.5,
+    0.13,
+    1.5
+  ],
+  "faces": 16,
+  "verts": 16,
+  "nodes": 2,
+  "createTime": "2018-12-19 15:33:45",
+  "author": "1854",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

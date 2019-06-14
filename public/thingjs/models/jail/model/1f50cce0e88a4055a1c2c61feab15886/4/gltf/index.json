@@ -1,0 +1,33 @@
+{
+  "sourceFile": "D:\\work\\1f50cce0e88a4055a1c2c61feab15886_999_转换中\\MAX\\21000吉木萨尔_二区学员宿舍楼0322.maxbk0.max",
+  "gltfFiles": [
+    "Y257WO2AW8POT7VRETCX726G17UXWTVX3.gltf"
+  ],
+  "texFiles": {
+    "17G9415V9Y6GE8CE7D1MJYO4ZU1QTWQQO": ".bin",
+    "W2YQ7QQWNCEHD8X96VVG3DNCWZ0D82WYU": "ErSuShe000_f_bmp.jpg",
+    "DIRW20GQWKGVAZNIZ8OYEDVDO6SE84VC9": "xlmy00800_grey.jpg",
+    "WQC3ZVMFJ8GU0VD1TVQQZ27GE62G37IR1": "xlmy008_normal2.jpg",
+    "D1YHNS4QDQYV9Y1MOYNRWWUQ9ZOTFUIO7": "xlmy008_blue00000.jpg",
+    "WVX946514SXEDSXFTVCGO8KYEU84ZDODJ": "xlmy008_normal.jpg",
+    "J1VGZJW4JNU280IDADQIWZU2E8CITDVQ1": "xlmy00008.jpg",
+    "ZSTOWUETTUP9DCMTV07XE40EZUNYHW8Y7": "Roof水泥.jpg",
+    "Y7281K5QU0TF47VTT4CMO4QQH01OU7V5O": "Roof水泥NOR.jpg",
+    "6OQHT6OZVTQIWYS4TYSDOZ0YATQX7785T": "xlmy00800_black.jpg",
+    "82R3J72VO4NXOZWR31NEH6CT18UO8U0GA": "window02.jpg",
+    "NOYT42TA20QEVNSIHNSD300PT1QXZ40GH": "bigdoor02.jpg"
+  },
+  "size": [
+    99.8156,
+    25.0143,
+    16.6871
+  ],
+  "faces": 5673,
+  "verts": 5499,
+  "nodes": 2,
+  "createTime": "2019-03-22 16:05:15",
+  "author": "",
+  "computer": "USER-B2M1SK78IA",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

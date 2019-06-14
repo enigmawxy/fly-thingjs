@@ -1,0 +1,341 @@
+{
+  "materials": [
+    {
+      "name": "Std_Djinshu.Lib_01.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "baseColorFactor": [
+          0.947059,
+          0.9078433,
+          0.837254941,
+          1.0
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.9
+      },
+      "alphaMode": "OPAQUE"
+    },
+    {
+      "name": "Std_glass_diffuse_01.tga_alpha",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "baseColorFactor": [
+          0.260784328,
+          0.386274546,
+          0.472549051,
+          1.0
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.8
+      },
+      "alphaMode": "BLEND"
+    }
+  ],
+  "images": [
+    {
+      "uri": "FN2517DIR36NP1Y0C7ZQY341DT7NT36OG.jpg"
+    },
+    {
+      "uri": "97U4DHPKX98OIUZ2TAYNYO6KXW0WT742C.png"
+    }
+  ],
+  "textures": [
+    {
+      "name": "uinnova_logoa_01_f_tga_f_png.jpg",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "glass_diffuse_01_f_tga.png",
+      "sampler": 0,
+      "source": 1
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Lo-双开窗户_01",
+      "primitives": [
+        {
+          "material": 0,
+          "mode": 4,
+          "indices": 0,
+          "attributes": {
+            "NORMAL": 2,
+            "POSITION": 1,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          }
+        },
+        {
+          "material": 1,
+          "mode": 4,
+          "indices": 5,
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9
+          }
+        }
+      ]
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7535,
+      "uri": "7Z25AY0MJDD1MO6QG1JSQ8W05AJQQ90WT.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "target": 34963,
+      "byteLength": 708,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "target": 34962,
+      "byteLength": 1440,
+      "byteOffset": 888
+    },
+    {
+      "buffer": 0,
+      "target": 34962,
+      "byteLength": 1872,
+      "byteOffset": 2328
+    },
+    {
+      "buffer": 0,
+      "target": 34962,
+      "byteLength": 960,
+      "byteOffset": 4128
+    },
+    {
+      "buffer": 0,
+      "target": 34962,
+      "byteLength": 1248,
+      "byteOffset": 5088
+    },
+    {
+      "buffer": 0,
+      "target": 34963,
+      "byteLength": 24,
+      "byteOffset": 6228
+    },
+    {
+      "buffer": 0,
+      "target": 34962,
+      "byteLength": 312,
+      "byteOffset": 6216
+    },
+    {
+      "buffer": 0,
+      "target": 34962,
+      "byteLength": 96,
+      "byteOffset": 6528
+    },
+    {
+      "buffer": 0,
+      "target": 34962,
+      "byteLength": 208,
+      "byteOffset": 6408
+    },
+    {
+      "buffer": 0,
+      "target": 34962,
+      "byteLength": 64,
+      "byteOffset": 6616
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5123,
+      "type": "SCALAR",
+      "bufferView": 0,
+      "byteOffset": 0,
+      "byteType": 261,
+      "count": 354
+    },
+    {
+      "componentType": 5126,
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0,
+      "byteType": 1381,
+      "count": 120,
+      "min": [
+        -60.3613128662109,
+        -2.56678891181946,
+        0.313346862792969
+      ],
+      "max": [
+        60.3613128662109,
+        2.56678891181946,
+        149.873504638672
+      ]
+    },
+    {
+      "componentType": 5126,
+      "type": "VEC3",
+      "bufferView": 2,
+      "byteOffset": 0,
+      "byteType": 1432,
+      "count": 156
+    },
+    {
+      "componentType": 5126,
+      "type": "VEC2",
+      "bufferView": 3,
+      "byteOffset": 0,
+      "byteType": 301,
+      "count": 120
+    },
+    {
+      "componentType": 5126,
+      "type": "VEC2",
+      "bufferView": 4,
+      "byteOffset": 0,
+      "byteType": 1570,
+      "count": 156
+    },
+    {
+      "componentType": 5123,
+      "type": "SCALAR",
+      "bufferView": 5,
+      "byteOffset": 0,
+      "byteType": 878,
+      "count": 12
+    },
+    {
+      "componentType": 5126,
+      "type": "VEC3",
+      "bufferView": 6,
+      "byteOffset": 0,
+      "byteType": 907,
+      "count": 26,
+      "min": [
+        -58.951789855957,
+        -0.186375260353088,
+        4.35543823242188
+      ],
+      "max": [
+        58.951789855957,
+        0.351321458816528,
+        148.351928710938
+      ]
+    },
+    {
+      "componentType": 5126,
+      "type": "VEC3",
+      "bufferView": 7,
+      "byteOffset": 0,
+      "byteType": 334,
+      "count": 8
+    },
+    {
+      "componentType": 5126,
+      "type": "VEC2",
+      "bufferView": 8,
+      "byteOffset": 0,
+      "byteType": 1780,
+      "count": 26
+    },
+    {
+      "componentType": 5126,
+      "type": "VEC2",
+      "bufferView": 9,
+      "byteOffset": 0,
+      "byteType": 1960,
+      "count": 8
+    }
+  ],
+  "nodes": [
+    {
+      "name": "RootNode",
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "body",
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        -0.70710676908493,
+        0.0,
+        0.0,
+        0.70710676908493
+      ],
+      "scale": [
+        0.00999999977648258,
+        0.00999999977648258,
+        0.00999999977648258
+      ],
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "Lo-双开窗户_01",
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mesh": 0
+    }
+  ],
+  "asset": {
+    "generator": "FBX2glTF",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Root Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "samplers": [
+    {}
+  ]
+}

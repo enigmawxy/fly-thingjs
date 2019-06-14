@@ -1,0 +1,24 @@
+{
+  "sourceFile": "D:\\work\\9773cd1b678d49f6889831720811d27d_999_转换中\\MAX\\18000吉木萨尔_餐厅门.maxbk0.max",
+  "gltfFiles": [
+    "WPI2O884HPCRF77CEDU2EEWNYO8SEJNQM.gltf"
+  ],
+  "texFiles": {
+    "JDD7X8WK2ZJWG9JIG14N59DI2987OAPN5": ".bin",
+    "ENKM7WUDANCYH01CDUU2EHY1EH0859TWX": "Door123_f_bmp.jpg",
+    "T18TAP7OW27E80WDE7NUQJ214Z62Q3JWP": "bigdoor03.jpg"
+  },
+  "size": [
+    2.0,
+    0.16,
+    2.5
+  ],
+  "faces": 60,
+  "verts": 36,
+  "nodes": 3,
+  "createTime": "2019-01-05 11:39:39",
+  "author": "",
+  "computer": "USER-B2M1SK78IA",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

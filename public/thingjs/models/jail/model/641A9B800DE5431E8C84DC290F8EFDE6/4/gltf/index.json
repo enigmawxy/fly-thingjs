@@ -1,0 +1,23 @@
+{
+  "sourceFile": "D:\\work\\641A9B800DE5431E8C84DC290F8EFDE6_999_转换中\\max\\18000烟感.max",
+  "gltfFiles": [
+    "QHZWSEQ885W1CI706GUUIEU0KOWUKPZZS.gltf"
+  ],
+  "texFiles": {
+    "YWW7IAT15QUCQ9W80YJ1K5E42I9U1GT08": ".bin",
+    "MF8WKC7NCOQNVC30C5J7NGJ0NRWPWTTNS": "烟感ly.jpg"
+  },
+  "size": [
+    0.236053,
+    0.236053,
+    0.127117
+  ],
+  "faces": 62,
+  "verts": 50,
+  "nodes": 2,
+  "createTime": "2018-12-30 16:51:32",
+  "author": "9166",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

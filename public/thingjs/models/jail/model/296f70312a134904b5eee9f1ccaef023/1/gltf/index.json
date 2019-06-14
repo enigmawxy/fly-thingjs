@@ -1,0 +1,25 @@
+{
+  "sourceFile": "D:\\work\\296f70312a134904b5eee9f1ccaef023_999_转换中\\MAX\\18000水泵房.maxbk0.max",
+  "gltfFiles": [
+    "0N34A7NDET74W2NQWDSP701DWYIET0VDQ.gltf"
+  ],
+  "texFiles": {
+    "013EQ27C71C4W1C41Z0XHZC5QJ1X9Z123": ".bin",
+    "DNI9JNYUU7Y3T6SE977TU0I478QXFW2P1": "zy03_f_png.jpg",
+    "YCRUT6CF0SXZJ03OU7OOU77GJWOTO1Q5Z": "zy06_f_png.jpg",
+    "WSX1NNOFZOQ1UO2H43N2HT2G3UN47ZSQO": "zy07_f_png.jpg"
+  },
+  "size": [
+    35.7628,
+    24.1545,
+    8.02822
+  ],
+  "faces": 60,
+  "verts": 48,
+  "nodes": 1,
+  "createTime": "2019-04-17 9:37:39",
+  "author": "1854",
+  "computer": "DESKTOP-MEOUSL4",
+  "max": "#(22000, 55, 0, 22, 0, 0, 757, 2020, \"\")",
+  "version": "2.1"
+}

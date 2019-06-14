@@ -1,0 +1,24 @@
+{
+  "sourceFile": "D:\\work\\D26DB25C34C94CAABF24FED40F1A9719_999_转换中\\max\\1800018000雪松.max",
+  "gltfFiles": [
+    "T22YT6NC8UK43YQDXA6O5Z08OEJCRF47D.gltf"
+  ],
+  "texFiles": {
+    "14QOE68DO7825O1UI96W5UY2OZZ1GEP2D": ".bin",
+    "U8VTO4157DJO2HDQX8DOQJWCOT1QDH8WR": "Tree_002_01_D1_1.jpg",
+    "ZZSOW76YUDQXAU8TDFWWQEY74ZWUCZDCG": "Tree_005_01_D5_f_tga.png"
+  },
+  "size": [
+    10.2306,
+    9.60933,
+    19.4643
+  ],
+  "faces": 4212,
+  "verts": 6175,
+  "nodes": 2,
+  "createTime": "2018-12-20 17:41:08",
+  "author": "1854",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

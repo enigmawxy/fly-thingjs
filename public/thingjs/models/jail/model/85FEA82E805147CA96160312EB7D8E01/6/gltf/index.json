@@ -1,0 +1,23 @@
+{
+  "sourceFile": "D:\\work\\85FEA82E805147CA96160312EB7D8E01_999_转换中\\max\\18000云台支架摄像机.max",
+  "gltfFiles": [
+    "PT0VWD1ZS5E82CQ6OGHPSX8U0I1T857TK.gltf"
+  ],
+  "texFiles": {
+    "4AW1C1ZWWXZ0CYJ41REPKGWTCROUQOATK": ".bin",
+    "TO6WRE6NT722RQPWQGWU6PQY1PODNO727": "ntexture_01.jpg"
+  },
+  "size": [
+    0.112828,
+    0.194519,
+    0.2135
+  ],
+  "faces": 216,
+  "verts": 122,
+  "nodes": 2,
+  "createTime": "2019-01-02 1:35:07",
+  "author": "9166",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

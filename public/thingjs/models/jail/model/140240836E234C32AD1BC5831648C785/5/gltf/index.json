@@ -1,0 +1,26 @@
+{
+  "sourceFile": "D:\\work\\140240836E234C32AD1BC5831648C785_999_转换中\\max\\18000140240836E234C32AD1BC5831648C785.max",
+  "gltfFiles": [
+    "12JPOPZH8KD177474OI9D0EEP8QH0QOW7.gltf"
+  ],
+  "texFiles": {
+    "KEW7N5T10EF21YHUIP1HJIYH2UM170ETY": ".bin",
+    "O4UWO5H4WEQTVHD7NU5F0NXW1IY9POC9Y": "OfficeWindow.jpg",
+    "C531WCTN1X8W0H2HPN2J68RUNUIFN1IAN": "CementRoof.jpg",
+    "0MHE0NQ7DWQHZNRJUKM9PKR7NNXHUODTZ": "OfficeWall.jpg",
+    "I596NE1N7O9Y64HWS4HTT7GQ6IGOWSOZD": "储备粮底墙.jpg"
+  },
+  "size": [
+    15.2592,
+    62.8123,
+    12.5625
+  ],
+  "faces": 123,
+  "verts": 90,
+  "nodes": 4,
+  "createTime": "2018-12-18 18:20:53",
+  "author": "1854",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

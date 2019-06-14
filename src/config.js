@@ -7,5 +7,9 @@ var uino = uino || {};
 // 封装工具常量
 uino.constant = {};
 
-// 封装采集的信息点url
+// 封装采集的信息点 url
 uino.pointModelUrl = './';
+// 场景资源 url 前缀
+uino.sceneUrl = './';
+// 模型库路径 url 前缀
+uino.modelsUrl = '';

@@ -1,0 +1,23 @@
+{
+  "sourceFile": "D:\\work\\3B0165F64C344B4BA4260D1C71566C35_999_转换中\\max\\1800018000门_双开木纹门A_01.max",
+  "gltfFiles": [
+    "OF7CPQZNOQ224W12OP97OMUZN2AYOQTDN.gltf"
+  ],
+  "texFiles": {
+    "DOPIG7J0Y9YWKRF67IQ86EQZ2PJ70C9N1": ".bin",
+    "DQ1QT9UKCJUWK5868G3D82O025FJW29J6": "WoodDoorSingel_01.jpg"
+  },
+  "size": [
+    2.03715,
+    0.0800537,
+    2.3
+  ],
+  "faces": 68,
+  "verts": 40,
+  "nodes": 8,
+  "createTime": "2018-12-29 16:25:34",
+  "author": "9166",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

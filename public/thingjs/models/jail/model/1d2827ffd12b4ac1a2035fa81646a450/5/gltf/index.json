@@ -1,0 +1,24 @@
+{
+  "sourceFile": "D:\\work\\1d2827ffd12b4ac1a2035fa81646a450_999_转换中\\MAX\\180001800018000树木_04.maxbk0.max",
+  "gltfFiles": [
+    "H6S4O82M9ZOEDU6N4W7VDW81EJ6658724.gltf"
+  ],
+  "texFiles": {
+    "HUV2W2UDJJOCD8DV48POXO67P16IT7Y7Y": ".bin",
+    "TD7ROPVTOYVMZ11D4FP8D188M8NQYHWSE": "AM_133_003_Quercus02_Bark_Color.jpg",
+    "Q1IDG727YW0SC32CRUPNEHY0EA16CHNUO": "AM_133_003_Quercus02_color.png"
+  },
+  "size": [
+    12.6352,
+    13.2106,
+    15.8175
+  ],
+  "faces": 7990,
+  "verts": 8315,
+  "nodes": 1,
+  "createTime": "2019-03-25 16:59:55",
+  "author": "",
+  "computer": "USER-B2M1SK78IA",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

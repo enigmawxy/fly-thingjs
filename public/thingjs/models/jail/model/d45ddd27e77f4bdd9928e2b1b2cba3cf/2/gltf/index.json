@@ -1,0 +1,23 @@
+{
+  "sourceFile": "D:\\work\\d45ddd27e77f4bdd9928e2b1b2cba3cf_999_转换中\\max\\18000克拉玛依_格栅门AB门描述5.max",
+  "gltfFiles": [
+    "RH68X1WOX7WT7XHZODJ2KGJW15WP1QHT1.gltf"
+  ],
+  "texFiles": {
+    "CJTICT8WQ1J7OWT6NYFJO2Q0CTT1829Z1": ".bin",
+    "RQTI2HYQGUWT6GE12E702OUN643DIQE8K": "door_mesh.png"
+  },
+  "size": [
+    3.5,
+    0.0450018,
+    3.0
+  ],
+  "faces": 48,
+  "verts": 28,
+  "nodes": 2,
+  "createTime": "2018-12-19 9:17:41",
+  "author": "1854",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

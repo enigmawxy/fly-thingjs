@@ -1,0 +1,23 @@
+{
+  "sourceFile": "D:\\work\\CE114687E7B3499B9DC3060DB28B7C6E_999_转换中\\max\\1800018000电动伸缩门.max",
+  "gltfFiles": [
+    "GHPKY802TZPKYANN4WWWOQTJ2ROJ1O32Q.gltf"
+  ],
+  "texFiles": {
+    "EZ08TWJ6Q1DNIONNWOQD253ZSI17IPJJW": ".bin",
+    "2W1UMJ00PWN8MUDWS2WD2QOWI5Q2WC1U1": "Fence_01_f_tga.png"
+  },
+  "size": [
+    5.48902,
+    0.209133,
+    0.956726
+  ],
+  "faces": 408,
+  "verts": 544,
+  "nodes": 2,
+  "createTime": "2018-12-20 17:38:32",
+  "author": "1854",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

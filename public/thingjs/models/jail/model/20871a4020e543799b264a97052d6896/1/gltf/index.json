@@ -1,0 +1,23 @@
+{
+  "sourceFile": "D:\\work\\20871a4020e543799b264a97052d6896_999_转换中\\MAX\\18000吉木萨尔_分隔栏.maxbk0.max",
+  "gltfFiles": [
+    "5FTOGJ0C4FYKOEW1KI74CDJJ0TTN7MH8V.gltf"
+  ],
+  "texFiles": {
+    "E8YQ5TPVPJJ2OE0IWIW41RUZKOQ4SC718": ".bin",
+    "5AN0P1JQ5OUSYJWTNM8PIIJ86XA6U4F4N": "Grid0.png"
+  },
+  "size": [
+    4.80949,
+    0.0509666,
+    2.0
+  ],
+  "faces": 42,
+  "verts": 48,
+  "nodes": 2,
+  "createTime": "2019-01-12 16:20:17",
+  "author": "1854",
+  "computer": "USER-B2M1SK78IA",
+  "max": "#(21000, 52, 0)",
+  "version": "2.1"
+}

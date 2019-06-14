@@ -1,0 +1,25 @@
+{
+  "sourceFile": "D:\\work\\83A4A1A772C44D3E8E9A676D5619C311_999_转换中\\max\\1800018000门_GlassDoor_01.max",
+  "gltfFiles": [
+    "1WP9UIO3E7WYH0KQHJQPOT6CAJ64JP02E.gltf"
+  ],
+  "texFiles": {
+    "61DAPKRT3JW28U8PZU6TTUS481QIFU0XF": ".bin",
+    "YSGADNPEYK29063EJ47C3TUPEU2YJ1QEF": "glass_diffuse_01_f_tga.png",
+    "YVPH01Q372GZYI35TT748NNOOWITT704A": "Djinshu.Lib_01.jpg",
+    "10XZU1I3JJ2OHN7ITJ8I8DN5ZN84E7WTA": "uinnova_logoa_01_f_tga.png"
+  },
+  "size": [
+    1.62803,
+    0.275982,
+    3.0
+  ],
+  "faces": 840,
+  "verts": 452,
+  "nodes": 8,
+  "createTime": "2019-01-02 1:13:37",
+  "author": "9166",
+  "computer": "DHJP-20160806JM",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

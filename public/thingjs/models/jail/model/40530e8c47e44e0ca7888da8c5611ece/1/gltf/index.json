@@ -1,0 +1,34 @@
+{
+  "sourceFile": "D:\\work\\40530e8c47e44e0ca7888da8c5611ece_999_转换中\\MAX\\21000吉木萨尔_旧食堂0322.maxbk0.max",
+  "gltfFiles": [
+    "1DZN65E6N2Q1UWGW2VE7TN2J12DUYI2AY.gltf"
+  ],
+  "texFiles": {
+    "1IQ1NM7612CHZWCA6K2ZZSGT285UZKE7N": ".bin",
+    "CO8TQMZJVP9W06DF4NX1TKI10KYH1ITWY": "ShiTang_f_bmp.jpg",
+    "C53DWXAZC43Y765OT7CTU0GQY62JPOO11": "xlmy008_blue00000.jpg",
+    "0R6EYQQ7JQXE7CXEP8DZTKP37OMA6C2HW": "xlmy008_normal.jpg",
+    "WXTUNPF1NQW0V41686XO4COAYKTWZWX9P": "xlmy00008.jpg",
+    "046FN6ROPIMZ02RHJ84Q6VIZ7UEZNSOTJ": "xlmy008_normal2.jpg",
+    "VCOYNYZWSI6ZWIIJ0VQT7WTUUSGOD6410": "xlmy00800_blue.jpg",
+    "6XJT0GU268G8YCDO22IE7QTU6OC3D0M31": "Roof水泥.jpg",
+    "7IW81P7ZO6TJPQIJ2QDOTQ4QD2510SR7T": "Roof水泥NOR.jpg",
+    "U2QD8Q168649U7XA27XHT6T3484E1SM72": "xlmy00800_black.jpg",
+    "W232QEJ4VTQ7WX9DW6XHN2T8214E6QTZD": "bigdoor02.jpg",
+    "KETNIIWTQCET6YTN1CU6DUDJJKG18OTZ4": "window02.jpg",
+    "V5OWQC9JOR690KE301YZZ0R74UGUZWO38": "bigdoor03.jpg"
+  },
+  "size": [
+    38.2206,
+    73.1149,
+    9.00001
+  ],
+  "faces": 3102,
+  "verts": 2901,
+  "nodes": 2,
+  "createTime": "2019-03-25 15:33:57",
+  "author": "",
+  "computer": "USER-B2M1SK78IA",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}

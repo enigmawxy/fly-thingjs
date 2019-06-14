@@ -1,0 +1,35 @@
+{
+  "sourceFile": "D:\\work\\d364c3b5c8394e59a20d6fa49af8296b_999_转换中\\MAX\\18000吉木萨尔_变配电室.maxbk0.max",
+  "gltfFiles": [
+    "58T2GT6WQ8JQPZA2VPZUQX911T1N0GE22.gltf"
+  ],
+  "texFiles": {
+    "IEWSG87SQOTOIAUQ4QAJIXU8IIJ6OO8WO": ".bin",
+    "CWNNRUDKP9J7GAOT2I3W1XT2SY7ZIO3Z7": "PeiDianShi_f_bmp.jpg",
+    "QEWA8TZ0VMZ87DHTVE97S4J0U2FNCTON1": "Roof水泥.jpg",
+    "I9UK58162JWN49WV4HAT84AZCE7J2XT18": "Roof水泥NOR.jpg",
+    "Y1WW238VGJP05UAUWXZU6I1P0C8UCRJD1": "xlmy00800_yellow0.jpg",
+    "TAPWQTTNOO62ETDAIMAZUR96SGU6WX12I": "xlmy008_normal2.jpg",
+    "OQ4WQ9YOC8U2MAQPIIZZWI1T0Q37QR982": "Grid.jpg",
+    "XJY7I8APQT8YWDJY0R3J8XJ8SGQ805W4I": "Grid_NRM.jpg",
+    "TFZCY146MUW7GJYAV414KTE2KD1W05H02": "doorwhite002.jpg",
+    "XH0WOWAD1G87SR8P727NUR868E86NQ8NC": "doorwhite002_NRM.jpg",
+    "P12NAQOY6C801QF8SXA4IRQ10IUZCP3NQ": "xlmy00800.jpg",
+    "GWZCMQJUMAYOIE4VIEAD8QJNQMA71XO1V": "xlmy00800_black.jpg",
+    "TT774Q1I4E7SDE7ANMH68P8NS2O4UDWD0": "xlmy008_normal.jpg",
+    "T3N2OHYIT76827YAVI177C7WQME8UQ3ZU": "windows001.jpg"
+  },
+  "size": [
+    17.1517,
+    24.4317,
+    6.0
+  ],
+  "faces": 570,
+  "verts": 634,
+  "nodes": 1,
+  "createTime": "2019-01-11 14:31:00",
+  "author": "",
+  "computer": "USER-B2M1SK78IA",
+  "max": "#(18000, 46, 0)",
+  "version": "2.1"
+}
