@@ -11,11 +11,11 @@ class Video extends THING.Thing {
         });
     }
     changOutLineColor() {
-        this.style.color = '#00ff00';
+        this.style.color = 'yellow';
     }
     // 触发告警事件
     triggerAlarm(eventData, tag) {
-        this.trigger(AlarmManage.eventType, eventData, tag);
+        this.trigger('alarm', eventData, tag);
     }
 }
 THING.factory.registerClass('Video', Video);

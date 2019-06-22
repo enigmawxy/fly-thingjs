@@ -1,0 +1,2 @@
+const arr = [];
+arr.forEach;
