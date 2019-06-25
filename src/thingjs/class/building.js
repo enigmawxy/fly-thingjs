@@ -1,3 +1,7 @@
+/**
+ * @author: 张攀钦
+ * @description: 建筑类
+ */
 class Building extends THING.Building {
     /**
      * @author: 张攀钦

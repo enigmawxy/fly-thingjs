@@ -15,7 +15,6 @@ uino.app.on('load', ev => {
     car.style.boundingBox = true;
     // 设置包围盒颜色
     car.style.boundingBoxColor = 'rgb(255,0,0)';
-    app.level.change(ev.campus);
 });
 // 信息面板
 const panel = new THING.widget.Panel({

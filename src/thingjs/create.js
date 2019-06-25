@@ -15,6 +15,6 @@ const createVideo = function _createVideo() {
     video = VideoFactory.createVideo(videoPro);
     video.changOutLineColor();
 };
-uino.thingjsUtil.createWidgetButton('测试创建摄像头', ev => {
+new THING.widget.Button('测试创建摄像头', ev => {
     createVideo();
 });

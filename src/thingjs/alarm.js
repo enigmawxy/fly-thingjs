@@ -1,5 +1,5 @@
 let interval;
-uino.thingjsUtil.createWidgetButton(
+new THING.widget.Button(
     '开启查询告警信息',
     ev => {
         interval = setInterval(() => {
@@ -28,7 +28,7 @@ uino.thingjsUtil.createWidgetButton(
     },
     10000
 );
-uino.thingjsUtil.createWidgetButton('关闭查询告警信息', ev => {
+new THING.widget.Button('关闭查询告警信息', ev => {
     if (interval) {
         clearInterval(interval);
     }

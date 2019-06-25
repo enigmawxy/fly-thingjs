@@ -1,3 +1,7 @@
+/**
+ * @author: 张攀钦
+ * @description:摄像头类，采集摄像头用到
+ */
 class Video extends THING.Thing {
     constructor(app = uino.app) {
         // 不传 app 报错。
